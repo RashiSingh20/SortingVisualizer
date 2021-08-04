@@ -1,0 +1,20 @@
+.array-bar {
+  width: 3px;
+  background-color: blueviolet;
+  display: inline-block;
+  margin: 0 1.5px;
+}
+.array-container {
+  position: absolute;
+  left: 100px;
+}
+.button1 {
+  padding: 8px;
+  margin: 6.5px;
+  border-radius: 12px;
+  border-color: darkblue;
+  cursor: pointer;
+}
+.button1:hover {
+  background-color: cornflowerblue;
+}
